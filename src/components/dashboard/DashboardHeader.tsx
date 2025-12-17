@@ -16,8 +16,8 @@ export function DashboardHeader({ lastUpdated, isLoading, onRefresh }: Dashboard
         <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
           <div>
             <h1 className="text-2xl md:text-3xl font-bold text-foreground">
-              Dashboard de Leads
-              <span className="text-primary ml-2">DEMO Inmobiliaria</span>
+              ConectaIA
+              <span className="text-primary ml-2">DEMO Inmobiliaria - Dashboard de Leads</span>
             </h1>
             <p className="text-muted-foreground text-sm mt-1">
               Vista general de leads, estados, urgencia y nivel de interés.
